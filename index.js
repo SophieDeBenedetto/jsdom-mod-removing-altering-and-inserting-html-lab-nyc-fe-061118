@@ -2,3 +2,5 @@
 
 /* Create your new element here and assign it to newHeader */
 const newHeader = null;
+
+var main = document.getElement
